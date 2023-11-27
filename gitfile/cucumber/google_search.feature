@@ -10,6 +10,4 @@ Feature: Search feature
     Then some result
 
 
-  Scenario: Negative Scenario
-    When some action
-    Then some result
+
